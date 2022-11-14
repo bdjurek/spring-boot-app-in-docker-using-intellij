@@ -2,7 +2,7 @@
   <configuration default="false" name="Run application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
     <option name="ACTIVE_PROFILES" value="dev" />
     <envs>
-      <env name="DATABASE_PASSWORD" value="g90t36Un9xeAHRgEQakz" />
+      <env name="DATABASE_PASSWORD" value="demo_pass" />
       <env name="DATABASE_SCHEMA" value="demo_app" />
       <env name="DATABASE_URL" value="jdbc:mysql://mysql:3306" />
       <env name="DATABASE_USER" value="root" />
